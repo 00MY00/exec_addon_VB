@@ -9,3 +9,4 @@ then
 else
     cd /mnt
     sh ./VBoxLinuxAdditions.run
+fi
